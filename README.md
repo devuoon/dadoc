@@ -31,7 +31,7 @@
  - http://kdt-sw-5-team15.elicecoding.com/
  <div>
 
- ![로고](/uploads/055f42f0e652e8dfc5e51fa8aa73ba67/로고.png)
+![image](https://github.com/devuoon/dadoc/assets/104570636/ed45f09e-b40a-4288-ba1e-ff5a40e1df4b)
 
  </div>
 
@@ -41,7 +41,7 @@
 
  ## Tech Stack
 
- - ![기술스택](/uploads/9d958d4bc258cc3d1794c785430f6009/기술스택.png)
+ - ![image](https://github.com/devuoon/dadoc/assets/104570636/dac46372-1eab-48d3-ac88-b610bc5fe2ba)
 
  <br/>
 
@@ -51,7 +51,7 @@
 
  <details><summary>홈 & 카테고리별 상품조회</summary>
 
-![list](/uploads/388c28ab02039ab58cb54e8c2b7a33a6/list.gif)
+![image](https://github.com/devuoon/dadoc/assets/104570636/8f602a7f-1463-4bf2-a976-6315dd92bd5e)
 
 </details>
 
