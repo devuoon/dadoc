@@ -58,14 +58,14 @@
 
 <details><summary>로그인 & 회원가입</summary>
 
-![login](/uploads/7c6bce68a1fdb9655c8d7d192913da79/login.gif)
+![login](https://github.com/devuoon/dadoc/assets/104570636/9abc2ca0-3d69-4f38-9314-51e5fd981b9c)
 
 </details>
 
 
 <details><summary>회원정보수정 & 회원탈퇴</summary>
 
-![user-info](/uploads/4ed95973a8f13ed4e560999005b0af1d/user-info.gif)
+![user-info](https://github.com/devuoon/dadoc/assets/104570636/77f50995-44e2-4e9c-8995-838e30be8451)
 
 </details>
 
@@ -73,35 +73,35 @@
 
 <details><summary>장바구니 기능</summary>
 
-![cart](/uploads/6a543e811bb286adba1a370bdd95b4ed/cart.gif)
+![cart](https://github.com/devuoon/dadoc/assets/104570636/6d64d1be-d251-42ea-9b6a-7b2481dcc691)
 
 </details>
 
 
 <details><summary>즉시구매 & 장바구니구매</summary>
 
-![payment](/uploads/c01cfd477f97b84a8ed334ebd09061aa/payment.gif)
+![payment](https://github.com/devuoon/dadoc/assets/104570636/bd1f87f8-d8f7-4e10-a39c-95794f02eda5)
 
 </details>
 
 
 <details><summary>주문내역조회 & 주문취소</summary>
 
-![user-order](/uploads/94caa9fc7cc571e802e89384b28e04a8/user-order.gif)
+![user-order](https://github.com/devuoon/dadoc/assets/104570636/788b6e8a-03bb-4e86-b30f-6c509e65e150)
 
 </details>
 
 
 <details><summary>최신순 & 가격순 정렬</summary>
 
-![filter](/uploads/190890a23ba560a71955a224cdb4c6b0/filter.gif)
+![filter](https://github.com/devuoon/dadoc/assets/104570636/6b3db1fa-09f3-4df2-be53-83ada0c65ca0)
 
 </details>
 
 
 <details><summary>관리자</summary>
 
-![admin](/uploads/c21004ee13c57974dbf3652f477214a4/admin.gif)
+![admin](https://github.com/devuoon/dadoc/assets/104570636/7093fa28-f64f-4d88-89ff-261386bf870f)
 
 </details>
 
@@ -150,7 +150,7 @@
 - 실행: **프론트, 백 동시에, express로 실행**
 
 ### DB 스키마
-- ![DB스키마](/uploads/00c948fc6b29a26aba936e110199596a/DB스키마.png)
+- ![image](https://github.com/devuoon/dadoc/assets/104570636/3434eb28-9da1-4839-ae1f-e5187212d2e3)
 
 
 <br />
@@ -193,11 +193,11 @@
 
 
 ## 브랜치 전략
-- ![브랜치전략](/uploads/e79c240c7e74701a2a23214c7ded12eb/브랜치전략.png)
+![image](https://github.com/devuoon/dadoc/assets/104570636/6e11e18b-e068-4c64-a29f-43f3cd670cbc)
 
 
 ## 트러블 슈팅
-- ![트러블슈팅](/uploads/c32279ffe3a33a7763698eb692e59094/트러블슈팅.png)
+![image](https://github.com/devuoon/dadoc/assets/104570636/9250b615-944b-422f-9607-cf42c1852d91)
 
 
 ## 실행 방법
