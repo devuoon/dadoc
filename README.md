@@ -51,7 +51,7 @@
 
  <details><summary>홈 & 카테고리별 상품조회</summary>
 
-![image](https://github.com/devuoon/dadoc/assets/104570636/8f602a7f-1463-4bf2-a976-6315dd92bd5e)
+![list](https://github.com/devuoon/dadoc/assets/104570636/adcfa762-13b0-48de-8648-bd1cfb85b87e)
 
 </details>
 
