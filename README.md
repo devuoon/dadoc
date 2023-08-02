@@ -9,7 +9,7 @@
     - 카테고리를 세분화하여 최소한의 클릭으로 빠르게 상품을 찾고 구매할 수 있습니다.
 
 ## 페르소나
-![페르소나](/uploads/40aa78b6bd79e4915f5bcf6644f8240e/페르소나.png)
+![image](https://github.com/devuoon/dadoc/assets/104570636/385d09f2-6d2b-47c6-b6d5-6ca6249de55e)
 
 
 <br />
